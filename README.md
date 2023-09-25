@@ -4,5 +4,6 @@
 
 复现步骤
 - `npm install`
+- `npm run dev`
 - 请求`http://127.0.0.1:7001/tfs/TB1.1EzoBBh1e4jSZFhXXcC9VXa-48-48.png`
 
